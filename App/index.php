@@ -1,4 +1,3 @@
 <?php 
-$meuNome = "Luana"; 
-echo "Hello Word"; 
-$var_dump($pdo); 
+require "./config/config.php";
+var_dump($pdo); 
